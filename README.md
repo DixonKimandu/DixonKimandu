@@ -1,6 +1,6 @@
 👋 Hello there.
 
-💻 I'm currently working at Intelligent Solutions.
+💻 I'm currently working as a freelance Developer.
 
 🚀 This is a repository where I've stored code for my latest projects, and I'm super excited to share it with you.
 
